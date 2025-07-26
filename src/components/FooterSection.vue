@@ -12,7 +12,7 @@
         <div class="footer-right">
           <h4 class="footer-heading">Connect</h4>
           <div class="social-icons">
-            <a href="mailto:hello@quintynholdings.com" aria-label="Email">
+            <a href="mailto:c@quintynholdings.com" aria-label="Email">
               <i class="fas fa-envelope"></i>
             </a>
           </div>
